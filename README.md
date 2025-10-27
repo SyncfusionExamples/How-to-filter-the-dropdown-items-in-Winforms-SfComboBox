@@ -38,4 +38,4 @@ private bool FilterItem(object data)
 This sample filters the dropdown items so that only states starting with the letter C are displayed. You can modify the predicate to implement custom logic such as filtering by length, region, or any other property.
 
 For more details, refer to the official UG documentation:
-🔗 [Filtering in Windows Forms ComboBox](https://help.syncfusion.com/windowsforms/combobox/filtering) 
+🔗 [Filtering in Windows Forms SfComboBox](https://help.syncfusion.com/windowsforms/combobox/filtering) 
